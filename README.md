@@ -3,9 +3,8 @@
 I love to learn new things when it comes to code stuffs! I do mobile application development and backend development too.
 
 * :page_with_curl: I'm currently learning about:
-  * Golang
-  * React.js
-  * Vue.js
+  * React Native
+  * KMM (Kotlin Multiplatform Mobile)
   * AWS architecture, microservices, serveless
 
 <ul>
@@ -17,8 +16,42 @@ I love to learn new things when it comes to code stuffs! I do mobile application
   
 </ul>
 
-**Languages and Tools:** 
+**Languages and Tools:**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://swift.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/> </a> <a href="https://jquery.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/> </a> <a href="https://www.w3.org/html" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://hapi.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hapijs/hapijs-ar21.svg" alt="hapi.js" width="40" height="40"/> </a> <a href="https://www.fastify.io" target="_blank"> <img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-portrait.svg" alt="fastify" width="40" height="40"/> </a> <a href="https://webrtc.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/webrtc.svg" alt="webrtc" width="40" height="40"/> </a> <a href="https://www.chromium.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Chromium_Logo.svg" alt="chromium" width="40" height="40"/> </a> <a href="https://vuejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://reactjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.npmjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> <a href="https://gradle.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain-wordmark.svg" alt="npm" width="40" height="40"/> </a> <a href="https://cocoapods.org" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/cocoapods.svg" alt="cocoapods" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://confluence.atlassian.com/alldoc/atlassian-documentation-32243719.html" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a> <a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.sourcetreeapp.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/webstorm" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webstorm/webstorm-plain.svg" alt="webstorm" width="40" height="40"/> </a> <a href="https://www.adobe.com/sea/products/photoshop.html" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.linux.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a> <a href="https://www.mongodb.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://firebase.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.couchbase.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-ar21.svg" alt="couchbase" width="40" height="40"/> </a>
+
+<sub>
+• <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">javascript</a>
+• <a href="https://developer.android.com" target="_blank">android</a>
+• <a href="https://swift.org" target="_blank"> swift </a>
+• <a href="https://www.java.com" target="_blank"> java </a>
+• <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"> c# </a>
+• <a href="https://jquery.com" target="_blank"> jquery </a>
+• <a href="https://www.w3.org/html" target="_blank"> html </a>
+• <a href="https://nodejs.org" target="_blank"> node.js </a>
+• <a href="https://hapi.dev" target="_blank"> hapi.js </a>
+• <a href="https://www.fastify.io" target="_blank"> fastify </a>
+• <a href="https://webrtc.org" target="_blank"> webrtc </a>
+• <a href="https://www.chromium.org" target="_blank"> chromium </a>
+• <a href="https://vuejs.org" target="_blank"> vue.js </a>
+• <a href="https://reactjs.org" target="_blank"> reactjs </a>
+• <a href="https://www.npmjs.com" target="_blank"> npmjs </a>
+• <a href="https://gradle.org" target="_blank"> gradle </a>
+• <a href="https://cocoapods.org" target="_blank"> cocoapods </a>
+• <a href="https://aws.amazon.com" target="_blank"> aws </a>
+• <a href="https://confluence.atlassian.com/alldoc/atlassian-documentation-32243719.html" target="_blank"> jira confluence </a>
+• <a href="https://git-scm.com" target="_blank"> git </a>
+• <a href="https://www.sourcetreeapp.com" target="_blank"> sourcetree </a>
+• <a href="https://visualstudio.microsoft.com" target="_blank"> vscode </a>
+• <a href="https://www.jetbrains.com/webstorm" target="_blank"> webstorm </a>
+• <a href="https://www.linux.org" target="_blank"> linux </a>
+• <a href="https://www.mongodb.com" target="_blank"> mongodb </a>
+• <a href="https://www.postgresql.org" target="_blank"> postgres </a>
+• <a href="https://www.mysql.com" target="_blank"> mysql </a>
+• <a href="https://redis.io" target="_blank"> redis </a>
+• <a href="https://firebase.google.com" target="_blank"> firebase </a>
+• <a href="https://www.couchbase.com" target="_blank"> couchbase </a>
+•
+</sub>
+<br>
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=roxxydev.roxxydev)
